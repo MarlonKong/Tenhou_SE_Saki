@@ -1,11 +1,17 @@
 {
   "ver":1.0,
   "se":{
+    "25":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_100.wav"},
     "26":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_100.wav"},
+    "27":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_102.wav"},
     "28":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_102.wav"},
+    "29":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_101.wav"},
     "30":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_101.wav"},
+    "31":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_103.wav"},
     "32":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_103.wav"},
+    "33":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_104.wav"},
     "34":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_104.wav"},
+    "35":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_105.wav"},
     "36":{"url":"https://raw.githubusercontent.com/MarlonKong/Tenhou_SE_Saki/master/saki/m_105.wav"}
   }
 }
